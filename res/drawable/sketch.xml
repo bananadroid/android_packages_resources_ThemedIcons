@@ -33,15 +33,7 @@
         android:fillColor="#00ffffff"
         android:pathData="M111.81,24.79L113.51,24.79A4.61 4.61 0 0 1 118.12,29.40L118.12,64.11A4.61 4.61 0 0 1 113.51,68.72L111.81,68.72A4.61 4.61 0 0 1 107.20,64.11L107.20,29.40A4.61 4.61 0 0 1 111.81,24.79z"
         android:strokeColor="#ff000000"
-        android:strokeWidth="5.0"
-        android:strokeLineCap="square"
-        android:strokeLineJoin="miter"
-        android:fillType="nonZero" />
-    <path
-        android:fillColor="#00ffffff"
-        android:pathData="M129.10,27.41L130.44,27.41A3.62 3.62 0 0 1 134.06,31.03L134.06,51.64A3.62 3.62 0 0 1 130.44,55.27L129.10,55.27A3.62 3.62 0 0 1 125.48,51.64L125.48,31.03A3.62 3.62 0 0 1 129.10,27.41z"
-        android:strokeColor="#ff000000"
-        android:strokeWidth="5.0"
+        android:strokeWidth="12.0"
         android:strokeLineCap="square"
         android:strokeLineJoin="miter"
         android:fillType="nonZero" />

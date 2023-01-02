@@ -38,7 +38,7 @@
         android:strokeLineJoin="round"
         android:fillType="nonZero" />
     <path
-        android:fillColor="#00ffffff"
+        android:fillColor="#ff000000"
         android:pathData="M144.00,92.57C146.06,92.57,147.73,94.11,147.73,96.00C147.73,97.89,146.06,99.43,144.00,99.43C141.94,99.43,140.27,97.89,140.27,96.00C140.27,94.11,141.94,92.57,144.00,92.57z"
         android:strokeColor="#ff000000"
         android:strokeWidth="12.0"

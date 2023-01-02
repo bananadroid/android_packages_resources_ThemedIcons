@@ -41,7 +41,7 @@
         android:fillColor="#ff000000"
         android:pathData="M64.00,39.60C68.64,39.60,72.40,43.36,72.40,48.00C72.40,52.64,68.64,56.40,64.00,56.40C59.36,56.40,55.60,52.64,55.60,48.00C55.60,43.36,59.36,39.60,64.00,39.60z"
         android:strokeColor="#ff000000"
-        android:strokeWidth="12.0"
+        android:strokeWidth="5.0"
         android:strokeLineCap="round"
         android:strokeLineJoin="round"
         android:fillType="nonZero" />
