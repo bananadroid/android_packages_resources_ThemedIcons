@@ -5,10 +5,10 @@ This repo contains the resources required to add Themed icons in your Launcher. 
 ### Adding it to your launcher
 
 For implementing this icon pack, you'll need to add the following commit for Launcher3:
-[Launcher3 Add support for themed icons](https://github.com/Bootleggers-BrokenLab/packages_apps_Launcher3/commit/7b015c9e560de35ccc14f764db0e43688990d09f)
+[Launcher3 Add support for themed icons](https://github.com/bananadroid/android_packages_apps_Launcher3/commit/78deaf9ae22d02dddb39aec3870248a9f4cfe37d)
 After that, you need to add the following entry to your manifest, and modify the destination if you're not using Launcher3. 
 ```
-  <project path="packages/resources/ThemedIcons" name="FAMA-Android/packages_resources_ThemedIcons" remote="github" revision="pixel">
+  <project path="packages/resources/ThemedIcons" name="bananadroid/android_packages_resources_ThemedIcons" remote="github" revision="13">
     <linkfile src="res" dest="packages/apps/Launcher3/res-icons" />
   </project>
 ```
@@ -25,3 +25,4 @@ If you want to submit your icons, send us a pull request. We suggest that the ic
 - Project Streak
 - CipherOS
 - SimpleIcons.org
+- TeamFiles
