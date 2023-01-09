@@ -165,6 +165,7 @@
     <icon drawable="@drawable/themed_icon_bam" name="Bamapp Empresas" package="com.elementalgeeks.bam" />
     <icon drawable="@drawable/themed_icon_bam" name="Bamapp Personas" package="com.bam.personas" />
     <icon drawable="@drawable/themed_icon_bandlab" name="BandLab" package="com.bandlab.bandlab" />
+    <icon drawable="@drawable/themed_icon_bank_jago" name="Bank Jago" package="com.jago.digitalbanking" />
     <icon drawable="@drawable/themed_icon_battery_guru" name="Battery Guru" package="com.paget96.batteryguru" />
     <icon drawable="@drawable/themed_icon_battle_prime" name="Battle Prime" package="com.blitzteam.battleprime" />
     <icon drawable="@drawable/themed_icon_beeline" name="Мой Beeline (Казахстан)" package="kz.beeline.odp" />
@@ -254,6 +255,7 @@
     <icon drawable="@drawable/themed_icon_camera" name="GCam" package="com.google.android.apps.cameraslite" />
     <icon drawable="@drawable/themed_icon_camera" name="GCam" package="org.codeaurora.qcamera3" />
     <icon drawable="@drawable/themed_icon_camera" name="Google Camera" package="com.google.android.GoogleCamera" />
+    <icon drawable="@drawable/themed_icon_camera" name="Google Camera Go" package="com.google.android.apps.cameralite" />
     <icon drawable="@drawable/themed_icon_camera" name="Google Lens" package="com.google.android.apps.lens.example.release" />
     <icon drawable="@drawable/themed_icon_camera" name="Intelligent Scan" package="com.samsung.android.biometrics.service" />
     <icon drawable="@drawable/themed_icon_camera" name="LMC8.4" package="com.google.android.GoogleCameraLMCR13" />
@@ -261,7 +263,7 @@
     <icon drawable="@drawable/themed_icon_camera" name="Samsung 3D Scanner" package="com.samsung.android.scan3d" />
     <icon drawable="@drawable/themed_icon_camera" name="Samsung Quick measure" package="com.samsung.android.ruler" />
     <icon drawable="@drawable/themed_icon_camera" name="Aperture" package="org.lineageos.aperture" />
-    <icon drawable="@drawable/themed_icon_camera_go" name="Google Camera Go" package="com.google.android.apps.cameralite" />
+    <icon drawable="@drawable/themed_icon_camera" name="Timestamp Camera" package="com.jeyluta.timestampcamera" />
     <icon drawable="@drawable/themed_icon_camscanner" name="CamScanner" package="com.intsig.camscanner" />
     <icon drawable="@drawable/themed_icon_canvas" name="Canva" package="com.canva.editor" />
     <icon drawable="@drawable/themed_icon_capcut" name="CapCut" package="com.lemon.lvoverseas" />
@@ -433,6 +435,7 @@
     <icon drawable="@drawable/themed_icon_flamingo" name="MISSING" package="com.samrustan.twitter" />
     <icon drawable="@drawable/themed_icon_flashscore" name="MISSING" package="eu.livesport.FlashScore_com" />
     <icon drawable="@drawable/themed_icon_flashscore" name="MISSING" package="eu.livesport.MyScore_ru" />
+    <icon drawable="@drawable/themed_icon_flip_id" name="Flip" package="id.flip" />
     <icon drawable="@drawable/themed_icon_flipkart" name="MISSING" package="com.flipkart.android" />
     <icon drawable="@drawable/themed_icon_flipkz" name="MISSING" package="kz.flip.mobile" />
     <icon drawable="@drawable/themed_icon_flm" name="FL Studio Mobile" package="com.imageline.FLM" />
@@ -466,6 +469,7 @@
     <icon drawable="@drawable/themed_icon_g_translate" name="Google Translate" package="com.google.android.apps.translate" />
     <icon drawable="@drawable/themed_icon_gaana" name="Gaana Hindi Song Music App" package="com.gaana" />
     <icon drawable="@drawable/themed_icon_gallery_go" name="Gallery" package="com.google.android.apps.photosgo" />
+    <icon drawable="@drawable/themed_icon_gamespace" name="GameSpace" package="io.chaldeaprjkt.gamespace" />
     <icon drawable="@drawable/themed_icon_gapo" name="MISSING" package="vn.gapo.app" />
     <icon drawable="@drawable/themed_icon_garanti" name="MISSING" package="com.garanti.cepsubesi" />
     <icon drawable="@drawable/themed_icon_garena_aov" name="Garena AOV" package="com.garena.game.kgid" />
@@ -523,6 +527,7 @@
     <icon drawable="@drawable/themed_icon_guitar_tuna" name="GuitarTuna" package="com.ovelin.guitartuna" />
     <icon drawable="@drawable/themed_icon_gumslinger" name="MISSING" package="se.itatake.gumslinger" />
     <icon drawable="@drawable/themed_icon_habitnow" name="MISSING" package="com.habitnow" />
+    <icon drawable="@drawable/themed_icon_hago" name="Hago" package="com.yy.hiyo" />
     <icon drawable="@drawable/themed_icon_halkbank" name="MISSING" package="com.tmobtech.halkbank" />
     <icon drawable="@drawable/themed_icon_halyk" name="Halyk" package="kz.kkb.homebank" />
     <icon drawable="@drawable/themed_icon_hangouts" name="Hangouts" package="com.google.android.talk" />
@@ -568,6 +573,7 @@
     <icon drawable="@drawable/themed_icon_ivy_wallet" name="Ivy Wallet" package="com.ivy.wallet" />
     <icon drawable="@drawable/themed_icon_ivy_wallet" name="MISSING" package="com.ivy.wallet" />
     <icon drawable="@drawable/themed_icon_j2meloader" name="J2ME Loader" package="ru.playsoftware.j2meloader" />
+    <icon drawable="@drawable/themed_icon_jenius" name="Jenius" package="com.btpn.dc" />
     <icon drawable="@drawable/themed_icon_jiomart" name="JioMart Online Shopping App" package="com.jpl.jiomart" />
     <icon drawable="@drawable/themed_icon_jiosaavn" name="Jio Saavan" package="com.jio.media.jiobeats" />
     <icon drawable="@drawable/themed_icon_jiotv" name="Jio TV" package="com.jio.jioplay.tv" />
@@ -652,6 +658,7 @@
     <icon drawable="@drawable/themed_icon_mars" name="MISSING" package="com.pomelogames.MarsGame" />
     <icon drawable="@drawable/themed_icon_maswear" name="MasWear" package="com.lhzl.maswearpro" />
     <icon drawable="@drawable/themed_icon_math_riddles" name="Math Riddles" package="com.BlackGames.MathRiddles" />
+    <icon drawable="@drawable/themed_icon_matlog" name="MatLog" package="org.omnirom.logcat" />
     <icon drawable="@drawable/themed_icon_matlog" name="MatLog Libre" package="com.pluscubed.matlog" />
     <icon drawable="@drawable/themed_icon_maxim" name="maxim" package="com.taxsee.taxsee" />
     <icon drawable="@drawable/themed_icon_maxmpz_eq" name="Poweramp Equalizer" package="com.maxmpz.equalizer" />
@@ -686,6 +693,7 @@
     <icon drawable="@drawable/themed_icon_microsoft_office" name="Microsoft Office" package="com.microsoft.office.officehubrow" />
     <icon drawable="@drawable/themed_icon_microsoft_onedrive" name="Microsoft OneDrive" package="com.microsoft.skydrive" />
     <icon drawable="@drawable/themed_icon_microsoft_onenote" name="Microsoft OneNote" package="com.microsoft.office.onenote" />
+    <icon drawable="@drawable/themed_icon_microsoft_onenote" name="ColorNote" package="com.socialnmobile.dictapps.notepad.color.note" />
     <icon drawable="@drawable/themed_icon_microsoft_outlook" name="Microsoft Outlook" package="com.microsoft.office.outlook" />
     <icon drawable="@drawable/themed_icon_microsoft_outlook_lite" name="Outlook Lite" package="com.microsoft.outlooklite" />
     <icon drawable="@drawable/themed_icon_microsoft_planner" name="Microsoft Planner" package="com.microsoft.planner" />
@@ -737,7 +745,9 @@
     <icon drawable="@drawable/themed_icon_mygov_az" name="MISSING" package="az.gov.my" />
     <icon drawable="@drawable/themed_icon_myjio" name="MyJio" package="com.jio.myjio" />
     <icon drawable="@drawable/themed_icon_myntra" name="MISSING" package="com.myntra.android" />
+    <icon drawable="@drawable/themed_icon_mypertamina" name="My Pertamina" package="com.dafturn.mypertamina" />
     <icon drawable="@drawable/themed_icon_mypg" name="MyGP" package="com.portonics.mygp" />
+    <icon drawable="@drawable/themed_icon_mytelkomsel" name="My Telkomsel" package="com.telkomsel.telkomselcm" />
     <icon drawable="@drawable/themed_icon_nagad" name="Nagad" package="com.konasl.nagad" />
     <icon drawable="@drawable/themed_icon_naptime" name="Naptime" package="com.franco.doze" />
     <icon drawable="@drawable/themed_icon_naver_dict" name="Naver Dictionary" package="com.nhn.android.naverdic" />
