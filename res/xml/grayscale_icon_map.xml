@@ -260,6 +260,7 @@
     <icon drawable="@drawable/themed_icon_camera" name="Open Camera" package="net.sourceforge.opencamera" />
     <icon drawable="@drawable/themed_icon_camera" name="Samsung 3D Scanner" package="com.samsung.android.scan3d" />
     <icon drawable="@drawable/themed_icon_camera" name="Samsung Quick measure" package="com.samsung.android.ruler" />
+    <icon drawable="@drawable/themed_icon_camera" name="Aperture" package="org.lineageos.aperture" />
     <icon drawable="@drawable/themed_icon_camera_go" name="Google Camera Go" package="com.google.android.apps.cameralite" />
     <icon drawable="@drawable/themed_icon_camscanner" name="CamScanner" package="com.intsig.camscanner" />
     <icon drawable="@drawable/themed_icon_canvas" name="Canva" package="com.canva.editor" />
@@ -694,6 +695,7 @@
     <icon drawable="@drawable/themed_icon_microsoft_todo" name="Microsoft To Do" package="com.microsoft.todos" />
     <icon drawable="@drawable/themed_icon_microsoft_word" name="Microsoft Word" package="com.microsoft.office.word" />
     <icon drawable="@drawable/themed_icon_calendar_3" name="Mi Calendar" package="com.xiaomi.calendar" />
+    <icon drawable="@drawable/themed_icon_calendar_30" name="Etar" package="org.lineageos.etar" />
     <icon drawable="@drawable/themed_icon_files" name="Mi File Manager" package="com.mi.android.globalFileexplorer" />
     <icon drawable="@drawable/themed_icon_mifit" name="Zepp Life(MiFit)" package="com.xiaomi.hm.health" />
     <icon drawable="@drawable/themed_icon_gallery" name="Mi Gallery" package="com.miui.gallery" />
@@ -888,6 +890,7 @@
     <icon drawable="@drawable/themed_icon_readwise" name="MISSING" package="com.readwise" />
     <icon drawable="@drawable/themed_icon_realme_link" name="realme Link" package="com.realme.link" />
     <icon drawable="@drawable/themed_icon_recorder" name="Google Recorder" package="com.google.android.apps.recorder" />
+    <icon drawable="@drawable/themed_icon_recorder" name="Lineage Recorder" package="org.lineageos.recorder" />
     <icon drawable="@drawable/themed_icon_recorder_s" name="Audio Recorder" package="com.dimowner.audiorecorder" />
     <icon drawable="@drawable/themed_icon_reddit" name="Reddit" package="com.reddit.frontpage" />
     <icon drawable="@drawable/themed_icon_redlime" name="Periodic Table 2022" package="mendeleev.redlime" />
