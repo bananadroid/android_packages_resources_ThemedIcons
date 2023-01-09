@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
     <icon drawable="@array/grayscale_calendar_icons" name="Google Calendar" package="com.google.android.calendar" />
-    <icon drawable="@array/grayscale_clock_icons" name="Google Clock" package="com.google.android.deskclock" />
     <icon drawable="@drawable/themed_icon_magroove" name="Magroove" package="com.magroove.app" />
     <icon drawable="@drawable/themed_icon_offline_podcast_app" name="Offline Podcast App" package="fm.player" />
     <icon drawable="@drawable/themed_icon_0h_h1" name="0h h1" package="com.q42.ohhi" />
@@ -114,7 +113,10 @@
     <icon drawable="@drawable/themed_icon_anyboost" name="AnyBoost" package="anyboost.app" />
     <icon drawable="@drawable/themed_icon_anythingtopip" name="Anything to PiP" package="com.vitolaminafra.imagetopip" />
     <icon drawable="@drawable/themed_icon_anytype" name="Anytype" package="com.anytypeio.anytype" />
-    <icon drawable="@drawable/themed_icon_aosp_clock" name="Xiaomi Clock" package="com.android.deskclock" />
+    <icon drawable="@drawable/themed_icon_clock" name="AOSP Clock" package="com.android.deskclock" />
+    <icon drawable="@drawable/themed_icon_clock" name="Google Clock" package="com.google.android.deskclock" />
+    <icon drawable="@drawable/themed_icon_clock" name="Samsung Clock" package="com.sec.android.app.clockpackage" />
+    <icon drawable="@drawable/themed_icon_clock" name="Simple Clock" package="com.simplemobiletools.clock" />
     <icon drawable="@drawable/themed_icon_aov" name="Arena of Valor" package="com.ngame.allstar.eu" />
     <icon drawable="@drawable/themed_icon_apex_legends" name="Apex Legends Mobile" package="com.ea.gp.apexlegendsmobilefps" />
     <icon drawable="@drawable/themed_icon_apk_editor_master" name="Apk Editor Master" package="com.gmail.heagoo.apkeditor.pro" />
